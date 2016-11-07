@@ -22,3 +22,11 @@ h2{
 p{
   padding-top: 1rem;
 }
+
+a:link{
+  color: black;
+}
+
+a:visited{
+  color: black;
+}
